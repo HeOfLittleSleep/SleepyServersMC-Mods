@@ -11,3 +11,8 @@ the (hopefully last) 1.12.2 server. this one used `forge-1.12.2-14.23.5.2860-ins
 ## MC-Public-v6
 
 this server uses `forge-1.20.1-47.4.0-installer.jar`
+
+
+## MC-Public-v6.1
+
+this server uses `forge-1.20.1-47.4.10-installer.jar`
